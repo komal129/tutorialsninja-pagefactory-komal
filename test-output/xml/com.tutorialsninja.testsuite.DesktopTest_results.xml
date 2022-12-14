@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sanity Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.925">
+  <properties />
+  
+  
+            <testcase name="verifyProductAddedToShoppingCartSuccessFully" time="15.036" classname="com.tutorialsninja.testsuite.DesktopTest" />
+                <testcase name="verifyProductArrangeInAlphabeticalOrder" time="1.889" classname="com.tutorialsninja.testsuite.DesktopTest" />
+      
+</testsuite>
